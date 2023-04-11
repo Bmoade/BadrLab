@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d37f2c0.css",
+    "main.js": "/static/js/main.390efea4.js",
+    "static/media/pngwing.com.png": "/static/media/pngwing.com.2ae565250e83f9ec5871.png",
+    "static/media/a.png": "/static/media/a.c6d51a3d2ade041fc214.png",
+    "static/media/bar.jpg": "/static/media/bar.f586e3017b8431d59ad1.jpg",
+    "static/media/asasass.JPG": "/static/media/asasass.4b4b1487a1695bd3316b.JPG",
+    "static/media/main-banner-1.JPG": "/static/media/main-banner-1.72e925838bb4adff5e24.JPG",
+    "static/media/tfl.JPG": "/static/media/tfl.bbd3faf92b3a2678d28d.JPG",
+    "static/media/main-banner.jpg": "/static/media/main-banner.1501af060732b4745fd7.jpg",
+    "static/media/hml.JPG": "/static/media/hml.f1d7f7783d6afb3bd74b.JPG",
+    "static/media/xc.JPG": "/static/media/xc.5f2e18a2ec6bcf58c28c.JPG",
+    "static/media/t.png": "/static/media/t.9de7a72f28aae5fa3522.png",
+    "static/media/sا.jpg": "/static/media/sا.1648cc01cca8936b95f2.jpg",
+    "static/media/ezam.JPG": "/static/media/ezam.e0badc1f958c0079035e.JPG",
+    "static/media/sss.jpg": "/static/media/sss.581b1d3bf7ad08912c20.jpg",
+    "static/media/cc.jpg": "/static/media/cc.74cfcf9e353f3271acdb.jpg",
+    "static/media/fdfd.jpg": "/static/media/fdfd.7e83ce6107f95bbbb738.jpg",
+    "service-worker.js": "/service-worker.js",
+    "static/media/bar2.jpg": "/static/media/bar2.5ad4a4d03ab2beb8ce7e.jpg",
+    "static/media/f.png": "/static/media/f.1887cdda18bd047db7f7.png",
+    "static/media/w.png": "/static/media/w.df7ba82dfa8317f14421.png",
+    "static/media/blog-1.jpg": "/static/media/blog-1.07bdd1acadbff04c7163.jpg",
+    "static/media/m.png": "/static/media/m.899739a87aa6c3b9db25.png",
+    "index.html": "/index.html",
+    "main.4d37f2c0.css.map": "/static/css/main.4d37f2c0.css.map",
+    "main.390efea4.js.map": "/static/js/main.390efea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d37f2c0.css",
+    "static/js/main.390efea4.js"
+  ]
+}
